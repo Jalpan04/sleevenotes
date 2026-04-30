@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Buildozer and Android
+.buildozer/
+.gradle/
+*.keystore
+
+# Database
+# Ignored to prevent overwriting user's local diary data when pushing/pulling
+sleevenotes.db
+
+# IDEs
+.idea/
+.vscode/
+*.swp
