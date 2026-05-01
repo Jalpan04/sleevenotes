@@ -15,7 +15,8 @@ from kivy.loader import Loader
 Loader.num_workers = 4           # Download up to 4 images in parallel (default is 2)
 Loader.max_upload_per_frame = 4  # Send up to 4 images to the GPU per frame
 
-API_BASE = "http://127.0.0.1:8000"
+# Local LAN URL so your phone can reach your PC on the same Wi-Fi
+API_BASE = "http://192.168.29.215:8000"
 
 KV = '''
 #:import get_color_from_hex kivy.utils.get_color_from_hex
