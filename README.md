@@ -1,6 +1,6 @@
 # SleeveNotes
 
-![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/sleevenotes) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/sleevenotes) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) [![KivyMD](https://img.shields.io/badge/KivyMD-1F6F8B?style=flat&logo=kivy&logoColor=white)](https://kivymd.readthedocs.io) [![Kivy](https://img.shields.io/badge/Kivy-1F6F8B?style=flat&logo=kivy&logoColor=white)](https://kivy.org) [![Buildozer](https://img.shields.io/badge/Buildozer-444444?style=flat&logo=android&logoColor=white)](https://github.com/kivy/buildozer) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/sleevenotes) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 SleeveNotes is a music-logging application built with Python and KivyMD, allowing users to log, rate, and review their favorite music albums locally. It serves as a personal diary for music enthusiasts.
 
